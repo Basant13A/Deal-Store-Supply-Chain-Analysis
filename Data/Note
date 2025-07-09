@@ -1,0 +1,11 @@
+## 📦 Dataset Download
+
+Due to GitHub’s file size limits, the full dataset is provided as a compressed `.7z` archive.
+
+🔗 [Download dataset.7z](./data/dataset.7z)
+
+To extract the files, use [7-Zip](https://www.7-zip.org/) or any compatible tool.
+
+### 🗂️ Archive Contents:
+- `raw/` folder – Original supply chain CSV files from Kaggle  
+- `cleaned/` folder – Cleaned and preprocessed datasets used for analysis  
