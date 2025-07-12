@@ -75,21 +75,36 @@ This repository contains the code, notebooks, dashboards, and presentation for o
 deal-store-supply-chain-analysis/
 │
 ├── README.md
+│
 ├── data/
-│   ├── raw/                     # Original dataset from Kaggle
-│   └── cleaned/                 # Cleaned and processed dataset
+│   ├── Note
+│   ├── cleaned_dataset.7z
+│   └──diversified_ecommerce_dataset.7z                 
+│
+├── docs/                              # Supporting documents
+│   ├── analysis_questions_week2.pdf
+│   ├── deal_store_project_workflow.pdf
+│   └── project_proposal.pdf
 │
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb   # Python preprocessing scripts
-│   └── 02_analysis_questions.ipynb
+│   └── deal_store_analysis_full.ipynb
+│
+├── sql/
+│   ├── erd_diagram.jpeg
+│   ├── erd_tables.jpeg
+│   ├── sql_database_creation.pdf
+│   └── sql_question_answers.pdf
 │
 ├── dashboards/
-│   ├── operational_dashboard.twbx
-│   └── forecasting_dashboard.twbx
+│   ├── deal_store_forecasting_dashboard.twbx
+│   └── deal_store_operational_dashboard.twbx
 │
 ├── visuals/
-│   ├── dashboard_screenshots/
-│   └── final_presentation.pdf
+│   ├── Deal Store Forecasting Dashboard.png  
+│   └── Deal Store Operational Dashboard.png
+│
+├── deal_store_final_presentation.pdf 
+
 ```
 ---
 
