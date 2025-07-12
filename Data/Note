@@ -7,5 +7,5 @@ Due to GitHub’s file size limits, the full dataset is provided as a compressed
 To extract the files, use [7-Zip](https://www.7-zip.org/) or any compatible tool.
 
 ### 🗂️ Archive Contents:
-- `raw/` folder – Original supply chain CSV files from Kaggle   
-- `cleaned/` folder – Cleaned and preprocessed datasets used for analysis   
+- diversified_ecommerce_dataset.7z – Original supply chain CSV files from Kaggle   
+- cleaned_dataset.7z – Cleaned and preprocessed datasets used for analysis   
